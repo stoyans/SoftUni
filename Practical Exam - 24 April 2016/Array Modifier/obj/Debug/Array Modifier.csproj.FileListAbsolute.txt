@@ -1,0 +1,6 @@
+C:\Users\Tanis\Desktop\Practical Exam - 24 April 2016\Array Modifier\bin\Debug\Array Modifier.exe.config
+C:\Users\Tanis\Desktop\Practical Exam - 24 April 2016\Array Modifier\obj\Debug\Array Modifier.csprojResolveAssemblyReference.cache
+C:\Users\Tanis\Desktop\Practical Exam - 24 April 2016\Array Modifier\bin\Debug\Array Modifier.exe
+C:\Users\Tanis\Desktop\Practical Exam - 24 April 2016\Array Modifier\bin\Debug\Array Modifier.pdb
+C:\Users\Tanis\Desktop\Practical Exam - 24 April 2016\Array Modifier\obj\Debug\Array Modifier.exe
+C:\Users\Tanis\Desktop\Practical Exam - 24 April 2016\Array Modifier\obj\Debug\Array Modifier.pdb

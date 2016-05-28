@@ -1,0 +1,8 @@
+C:\Users\Tanis\Desktop\Practical Exam - 24 April 2016\Strawberry\bin\Debug\Strawberry.exe.config
+C:\Users\Tanis\Desktop\Practical Exam - 24 April 2016\Strawberry\bin\Debug\Strawberry.exe
+C:\Users\Tanis\Desktop\Practical Exam - 24 April 2016\Strawberry\bin\Debug\Strawberry.pdb
+C:\Users\Tanis\Desktop\Practical Exam - 24 April 2016\Strawberry\obj\Debug\Strawberry.exe
+C:\Users\Tanis\Desktop\Practical Exam - 24 April 2016\Strawberry\obj\Debug\Strawberry.pdb
+D:\MyDocs\Visual Studio 2012\SoftUni\Practical Exam - 24 April 2016\Strawberry\bin\Debug\Strawberry.exe.config
+D:\MyDocs\Visual Studio 2012\SoftUni\Practical Exam - 24 April 2016\Strawberry\obj\Debug\Strawberry.exe
+D:\MyDocs\Visual Studio 2012\SoftUni\Practical Exam - 24 April 2016\Strawberry\obj\Debug\Strawberry.pdb

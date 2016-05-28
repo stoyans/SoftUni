@@ -1,0 +1,5 @@
+C:\Users\Tanis\Desktop\Practical Exam - 24 April 2016\Multiply Targeted Cell\bin\Debug\Multiply Targeted Cell.exe.config
+C:\Users\Tanis\Desktop\Practical Exam - 24 April 2016\Multiply Targeted Cell\bin\Debug\Multiply Targeted Cell.exe
+C:\Users\Tanis\Desktop\Practical Exam - 24 April 2016\Multiply Targeted Cell\bin\Debug\Multiply Targeted Cell.pdb
+C:\Users\Tanis\Desktop\Practical Exam - 24 April 2016\Multiply Targeted Cell\obj\Debug\Multiply Targeted Cell.exe
+C:\Users\Tanis\Desktop\Practical Exam - 24 April 2016\Multiply Targeted Cell\obj\Debug\Multiply Targeted Cell.pdb
