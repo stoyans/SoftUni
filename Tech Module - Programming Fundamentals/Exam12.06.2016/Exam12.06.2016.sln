@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Numbers", "01. Numbers\01. Numbers.csproj", "{059F1EA3-E7F0-421A-9233-C1B3F661C700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUni Coffee Orders", "SoftUni Coffee Orders\SoftUni Coffee Orders.csproj", "{6C98F3B4-0C76-4F8B-88A2-9DAA82974F7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Football Standings", "Football Standings\Football Standings.csproj", "{89114BBA-918F-4F92-9E13-D1561AEC4FD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{059F1EA3-E7F0-421A-9233-C1B3F661C700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059F1EA3-E7F0-421A-9233-C1B3F661C700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059F1EA3-E7F0-421A-9233-C1B3F661C700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059F1EA3-E7F0-421A-9233-C1B3F661C700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C98F3B4-0C76-4F8B-88A2-9DAA82974F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C98F3B4-0C76-4F8B-88A2-9DAA82974F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C98F3B4-0C76-4F8B-88A2-9DAA82974F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C98F3B4-0C76-4F8B-88A2-9DAA82974F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89114BBA-918F-4F92-9E13-D1561AEC4FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89114BBA-918F-4F92-9E13-D1561AEC4FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89114BBA-918F-4F92-9E13-D1561AEC4FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89114BBA-918F-4F92-9E13-D1561AEC4FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
